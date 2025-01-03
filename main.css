@@ -1,0 +1,15 @@
+#myLabel {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 15em;
+}
+
+.btnclass {
+    margin: 5px 5px;
+    border: 5px 5px;
+    text-align: center;
+}
+
+.labelclass{
+    text-align: center;
+}
